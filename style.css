@@ -74,22 +74,7 @@ a {
 	font-size: 32px;
   font-weight: 700;
   line-height: 1.6;
-  margin: 0 24px;
-}
-.search {
-  margin: 112px 0;
-	font-size: 32px;
-	background: none;
-	border: none;
-	border-bottom: 1px solid white;
-	outline: none;
-	padding: 6px 4px;
-	font-family: monospace;
-	font-weight: 300;
-	color: white;
-}
-.search:active, .search:focus {
-	border-bottom: 2px solid white;
+  margin: 0 24px 128px 24px;
 }
 .links {
   display: flex;

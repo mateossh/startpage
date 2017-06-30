@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Mateossh's startpage",
+  "description": "This extension overrides new tab page",
+  "version": "1.0",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "author": "mateossh",
+  "incognito": "spanning"
+  }

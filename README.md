@@ -1,8 +1,13 @@
 # startpage
+Startpage overrides new tab page in Google Chrome.
 
-## TODO
+## Installation
 
-* searchbar
+1. Type `chrome://extensions` in URL bar
+2. Tick "Developer mode"
+3. Click "Load unpacked extensions..."
+4. Select folder with startpage
+5. Done!
 
 ## License
 
